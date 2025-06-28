@@ -14,7 +14,7 @@ Error handling: The system incorporates error handling mechanisms to deal with i
 Compile the code with appropriate compiler settings.
 Run the compiled executable.
 Choose from the following options:
-- Display all flights
+-  Display all flights
 -  Reserve a seat
 -  Display passenger details
 -  Exit the application
@@ -34,7 +34,7 @@ The code employs dynamic memory allocation for flight objects using new, and dea
 Exceptions are caught using try-catch blocks to handle potential errors during execution.
 
 ## Authors
-- **Laiba Shafqat** - [Github](https://github.com/la1baa)
+- **Laiba Shafqat** 
 - **Haider Ali Kayani**
 
 
